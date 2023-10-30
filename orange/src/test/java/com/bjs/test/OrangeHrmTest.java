@@ -25,7 +25,7 @@ public class OrangeHrmTest {
 		
 		Homepage h=new Homepage(d);
 		h.clickoInc();
-		System.out.println("github commit demom");
+		
 
 	}
 
